@@ -1,2 +1,3 @@
 # Cognida--Dynamic-Formula-Execution-API
-https://hackathon-app.doselect.com/
+
+[Link to Competition](https://hackathon-app.doselect.com/1464/problem/1poryb)
